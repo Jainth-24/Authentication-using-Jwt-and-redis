@@ -48,7 +48,7 @@ This project is an **Employee Management System** built using **React** for the 
 
 4. Run the backend server:
 
-```bash
+  ```bash
    npm run start
 
 ### Frontend (React)
@@ -66,7 +66,7 @@ This project is an **Employee Management System** built using **React** for the 
 
 3. Run the frontend server:
 
-```bash
+  ```bash
    npm run dev
 
 4. Click the link in the terminal and navigate to the browser.
