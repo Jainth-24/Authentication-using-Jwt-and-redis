@@ -25,7 +25,6 @@ This project is an **Employee Management System** built using **React** for the 
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -40,16 +39,16 @@ This project is an **Employee Management System** built using **React** for the 
 
    ```bash
    cd auth-project_backend
-
+  
 3. Install the required dependencies:
 
-  ```bash
+   ```bash
    npm install
+   
+5. Run the backend server:
 
-4. Run the backend server:
-
-  ```bash
-   npm run start
+   ```bash
+   npm run start:dev
 
 ### Frontend (React)
 
@@ -61,13 +60,13 @@ This project is an **Employee Management System** built using **React** for the 
 
 2. Install the required dependencies:
 
-  ```bash
+   ```bash
    npm install
 
 3. Run the frontend server:
 
-  ```bash
-   npm run dev
+    ```bash
+    npm run dev
 
 4. Click the link in the terminal and navigate to the browser.
 
